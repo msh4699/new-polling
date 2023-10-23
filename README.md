@@ -109,7 +109,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🐦 Follow Me:
 
- [LinkedIn](https://www.linkedin.com/in/saurabhdixit93)
+ [LinkedIn](https://www.linkedin.com/in/mansi-sharma-4548a7188/)
 
 
 I hope you like the project. Thanks for reading :)
